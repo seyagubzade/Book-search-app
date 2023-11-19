@@ -1,0 +1,10 @@
+
+.responsive-cards { 
+    width: 98%; 
+    margin: 20px auto auto; 
+    min-height: 55vh; 
+    display: flex; 
+    flex-wrap: wrap; 
+    -webkit-box-pack: center; 
+    justify-content: center;
+} 
